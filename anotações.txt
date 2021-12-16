@@ -1,0 +1,3 @@
+rem = unidade de medida relativa baseada no maior elemento
+na escala hierarquica. Ou seja, alterando o font-size do elemento
+de maior nivel todos os tamanhos se ajustam automaticamente.
